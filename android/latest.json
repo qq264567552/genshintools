@@ -1,0 +1,7 @@
+{
+    "packageName": "dev.morlay.genshintools",
+    "version": "2.6.0",
+    "buildNumber": "220427075",
+    "downloadURL": "/android/dev.morlay.genshintools-release-arm64-v8a-2.6.0-220427075.apk",
+    "description": "* [feat] \u62bd\u5361\u8bb0\u5f55\u65f6\u95f4\u9006\u6392\u5e8f, \u5e76\u6298\u53e0\u91cd\u590d\n* [fix] \u5f15\u7528\u65b0\u7684\u6570\u636e\u6e90\uff0c\u4fee\u6b63\u65e5\u5386\u663e\u793a\u5f02\u5e38\n* [feat] v2.6 \u6570\u636e\u66f4\u65b0\n"
+}
